@@ -1,4 +1,4 @@
-## demo app - developing with Docker..ys
+## demo app - developing with Docker..yst
 
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
